@@ -42,3 +42,7 @@ objective: read spreadsheet file and automate tasks
 5. write to spreadsheet by writing inv value for each product into spreadsheet
 
 ![Capture d’écran 2023-01-23 à 22 42 15](https://user-images.githubusercontent.com/62488871/214157259-e150e821-9e60-44fe-bbfb-149978ffd21a.png)
+
+-----
+
+### Project 3: API Request
