@@ -46,3 +46,14 @@ objective: read spreadsheet file and automate tasks
 -----
 
 ### Project 3: API Request
+objective: create API request that fetches list of projects from git repository manager
+
+1. download module - pip install requests
+
+2. import module and make use of requests.get("<INSERT_URL>") to make API call to fetch all projects - depending on git repo manager this url will be different
+
+3. format response as list - response.json()
+
+4. loop through the list to return the correct data you want
+
+
